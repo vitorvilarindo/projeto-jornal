@@ -70,6 +70,12 @@ main h2 {
 main p {
     line-height: 30px;
 }
+main img.pequena {
+    max-width: 350px;
+    padding: 20px 10px;
+    display: block;
+    margin: auto;
+}
 legend {
     padding-bottom: 20px;
 }
